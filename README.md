@@ -1,4 +1,4 @@
 # pay
-支付宝，微信，QQ付款码合一
+Alipay, WeChat, QQ payment code is one.一
 
-二维码地址：https://wjup.github.io/pay/
+Two dimensional code address：https://wjup.github.io/pay/
